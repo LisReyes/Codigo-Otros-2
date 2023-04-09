@@ -1,5 +1,3 @@
-# README
-
 # AbajoDelReloj.com
 
 ---
@@ -32,7 +30,7 @@ Ser la plataforma de comercio electrónico líder en nuestro mercado, reconocida
 
 ### Mapa de navegación
 
-![mapa_navegacion.jpg](README%207397470f3dc04456ae79172dc553b3fa/mapa_navegacion.jpg)
+[https://drive.google.com/file/d/1YIdjPhGZ6nAp15eAhOXPz89uJOX7SEjV/view?usp=sharing](https://drive.google.com/file/d/1YIdjPhGZ6nAp15eAhOXPz89uJOX7SEjV/view?usp=sharing)
 
 ---
 
