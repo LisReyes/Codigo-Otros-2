@@ -28,13 +28,13 @@ Ser la plataforma de comercio electrónico líder en nuestro mercado, reconocida
 
 ---
 
-### Mapa de navegación
+### Mapa de navegació
 
-[https://drive.google.com/file/d/1YIdjPhGZ6nAp15eAhOXPz89uJOX7SEjV/view?usp=sharing](https://drive.google.com/file/d/1YIdjPhGZ6nAp15eAhOXPz89uJOX7SEjV/view?usp=sharing)
+![Mapa de Navegacion](/Assets/mapa_navegacion.jpg)
 
 ---
 
-### Contenidos
+Contenidos
 
 El sitio web contará con las siguientes páginas:
 
@@ -61,3 +61,7 @@ El sitio web contará con las siguientes páginas:
 | CSS2 | Spring Boot |  | GitHub |
 | Boostrap 5 | JS |  |  |
 | ECMAScript 6(JS) | Postman |  |  |
+
+### **Lanzamiento**
+
+El despliegue y publicación de la plataforma en la web se hará a través de railway, el día 14/04/2023.
